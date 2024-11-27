@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1731643994,
+	"Version": 1732701592,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Firecrackers are temporarily disabled due to bugs.",
 	"Tiers": [
@@ -107,6 +107,7 @@
 				"195",
 				"198",
 				"205",
+				"209",
 				"211",
 				"216",
 				"219",
@@ -3271,6 +3272,54 @@
 		},
 		{
 			"Name": "The Dark Lord",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
+		},
+		{
+			"Name": "The Houndmaster",
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
