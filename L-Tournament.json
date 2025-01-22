@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1733914491,
+	"Version": 1737507336,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Firecrackers are temporarily disabled due to bugs.",
 	"Tiers": [
@@ -209,8 +209,7 @@
 				18
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -295,7 +294,6 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -372,7 +370,6 @@
 				54
 			],
 			"ItemWhitelist": [
-				0,
 				5,
 				10
 			],
@@ -455,7 +452,6 @@
 				70
 			],
 			"ItemWhitelist": [
-				0,
 				5,
 				10
 			],
@@ -549,7 +545,6 @@
 				98
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -640,7 +635,6 @@
 				118
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -730,7 +724,6 @@
 				139
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -816,7 +809,6 @@
 				158
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -909,7 +901,6 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -995,7 +986,6 @@
 				198
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -1090,7 +1080,6 @@
 				218
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -1175,8 +1164,7 @@
 				238
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1265,7 +1253,6 @@
 				256
 			],
 			"ItemWhitelist": [
-				0,
 				5,
 				10
 			],
@@ -1362,7 +1349,6 @@
 				262
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -1444,7 +1430,6 @@
 				279
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -1537,7 +1522,6 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -1619,8 +1603,7 @@
 				337
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -1706,7 +1689,6 @@
 				358
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -1786,7 +1768,6 @@
 				378
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -1861,7 +1842,6 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -1941,7 +1921,6 @@
 				417
 			],
 			"ItemWhitelist": [
-				0,
 				5,
 				10
 			],
@@ -2036,7 +2015,6 @@
 				438
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2118,7 +2096,6 @@
 				458
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2203,7 +2180,6 @@
 				478
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2292,7 +2268,6 @@
 				498
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2378,8 +2353,7 @@
 				515
 			],
 			"ItemWhitelist": [
-				5,
-				0
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -2473,7 +2447,6 @@
 				538
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2572,7 +2545,6 @@
 				558
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2654,7 +2626,6 @@
 				578
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2739,7 +2710,6 @@
 				597
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2790,7 +2760,7 @@
 			"SurvivorBalanceTiers": [
 				0
 			],
-			"AntiFacecampPermitted": true,
+			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [
 				[
@@ -2831,7 +2801,6 @@
 				618
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2912,7 +2881,6 @@
 				637
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -2994,7 +2962,6 @@
 				657
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -3078,7 +3045,6 @@
 				671
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -3160,7 +3126,6 @@
 				698
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
@@ -3238,7 +3203,6 @@
 				718
 			],
 			"ItemWhitelist": [
-				0,
 				5
 			],
 			"AddonWhitelist": {
